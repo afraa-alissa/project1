@@ -590,7 +590,7 @@
 	height: 200px;
   }
   .contact .content form input[type="submit"] {
-	background-color: var(--main-color);
+	background-color: blue;
 	color: white;
 	padding: 20px;
 	border: none;
